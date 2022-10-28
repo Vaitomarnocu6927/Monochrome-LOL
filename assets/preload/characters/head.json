@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-284,
+				-200
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 21,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				-133
+			],
+			"anim": "singRIGHT",
+			"fps": 21,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-270
+			],
+			"anim": "singDOWN",
+			"fps": 21,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-266,
+				20
+			],
+			"anim": "singUP",
+			"fps": 21,
+			"name": " up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GoldHead Sheet",
+	"position": [
+		40,
+		-60
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-40,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 2.1
+}

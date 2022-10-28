@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-284,
+				-120
+			],
+			"loop": true,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-400,
+				-63
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-340,
+				-350
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-246,
+				90
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-274,
+				-120
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "SPAWN",
+			"indices": [],
+			"name": " spawn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lost Silver Assets Gold",
+	"position": [
+		40,
+		-60
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-40,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
