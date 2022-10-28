@@ -1,0 +1,3 @@
+Hides the Hud
+
+value 1: time
